@@ -1,0 +1,33 @@
+   81  mkdir Ghaith
+   82  cd Ghaith   83  touch blank
+   84  pwd
+   85  cat blank
+   86  vim
+   87  vim greeting.txt
+   88  cat greeting.txt
+   89  cp greeting.txt 1.txt
+   90  cp greeting.txt 2.txt
+   91  cp greeting.txt 3.txt
+   92  cp greeting.txt 4.txt
+   93  cp greeting.txt 5.txt
+   94  echo cat >pets.txt
+   95  cat pets.txt
+   96  echo dog 2>pets.txt
+   97  cat pets.txt
+   98  echo cat > pets.txt
+   99  cat pets.txt
+  100  echo dog 2> pets.txt
+  101  cat pets.txt
+  102  echo cat > pets.txt
+  103  cat pets.txt
+  104  vim pets.txt
+  105  cat pets.txt
+  106  echo hamster >> pets.txt
+  107  echo cat  >> commands.txt
+  108  echo ls  >> commands.txt
+  109  echo pwd  >> commands.txt
+  110  cat command.txt
+  111  cat commands.txt
+  112  vim lovelycommands.txt
+  113  history
+  114  history > history.txt
