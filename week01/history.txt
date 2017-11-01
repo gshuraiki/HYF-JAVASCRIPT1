@@ -1,0 +1,114 @@
+    1  pwd
+    2  cd
+    3  pwd
+    4  mkdir dance
+    5  dir
+    6  dir /w
+    7  ls
+    8  diw -w
+    9  dir -w
+   10  dir /w
+   11  cd dance
+   12  ped
+   13  pwd
+   14  dir /w
+   15  clear
+   16  ls
+   17  touch samba.txt
+   18  ls
+   19  cat sama.txt
+   20  cat samba.txt
+   21  echo "Heloo"
+   22  echo "samba is a dance form that originated in Brazil"
+   23  echo "samba is a dance form that originated in Brazil">samba.txt 
+   24  cat samba.txt
+   25  dog samba.txt 2>errors.txt
+   26  cat errors.txt
+   27  ls -l
+   28  mkdir syrian
+   29  ls -l
+   30  ls -l
+   31  cd syrian/
+   32  ls -a
+   33  cd..
+   34  cd..
+   35  cd.
+   36  cd ..
+   37  cd.
+   38  cd .
+   39  cd syrian/
+   40  cd .
+   41  cd ..
+   42  cd ..
+   43  cd dance/syrian
+   44  cd ../..
+   45  cd dance
+   46  cd syrian
+   47  cd /
+   48  cd dance/syrian
+   49  pwd
+   50  cd /c/gsh20/dance/syrian
+   51  ls
+   52  cd usr
+   53  ls
+   54  ls
+   55  cd lib
+   56  ls
+   57  cd
+   58  cd /
+   59  ls
+   60  cd /c/
+   61  dir
+   62  cd users
+   63  ls
+   64  cd gsh20
+   65  cd dance/syrian
+   66  vim food.txt
+   67  dir
+   68  cat food
+   69  cat food.txt
+   70  cat -n food.txt
+   71  vim food.txt
+   72  cat -n food.txt
+   73  cat
+   74  cat
+   75  history >mylist.txt
+   76  cat mylist.txt
+   77  ptw
+   78  pwt
+   79  pwd
+   80  mk Ghaith
+   81  md Ghaith
+   82  mkdir Ghaith
+   83  touch blank
+   84  pwd
+   85  cat blank
+   86  vim
+   87  vim greeting.txt
+   88  cat greeting.txt
+   89  cp greeting.txt 1.txt
+   90  cp greeting.txt 2.txt
+   91  cp greeting.txt 3.txt
+   92  cp greeting.txt 4.txt
+   93  cp greeting.txt 5.txt
+   94  echo cat >pets.txt
+   95  cat pets.txt
+   96  echo dog 2>pets.txt
+   97  cat pets.txt
+   98  echo cat > pets.txt
+   99  cat pets.txt
+  100  echo dog 2> pets.txt
+  101  cat pets.txt
+  102  echo cat > pets.txt
+  103  cat pets.txt
+  104  vim pets.txt
+  105  cat pets.txt
+  106  echo hamster >> pets.txt
+  107  echo cat  >> commands.txt
+  108  echo ls  >> commands.txt
+  109  echo pwd  >> commands.txt
+  110  cat command.txt
+  111  cat commands.txt
+  112  vim lovelycommands.txt
+  113  history
+  114  history > history.txt
