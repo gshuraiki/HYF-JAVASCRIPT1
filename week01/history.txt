@@ -1,5 +1,4 @@
    81  mkdir Ghaith
-   82  cd Ghaith   83  touch blank
    84  pwd
    85  cat blank
    86  vim
