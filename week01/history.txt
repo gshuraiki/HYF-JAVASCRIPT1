@@ -26,7 +26,6 @@
   107  echo cat  >> commands.txt
   108  echo ls  >> commands.txt
   109  echo pwd  >> commands.txt
-  110  cat command.txt
   111  cat commands.txt
   112  vim lovelycommands.txt
   114  history > history.txt
