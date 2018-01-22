@@ -29,5 +29,4 @@
   110  cat command.txt
   111  cat commands.txt
   112  vim lovelycommands.txt
-  113  history
   114  history > history.txt
